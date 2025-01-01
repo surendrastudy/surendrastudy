@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Surendraprasad Yadav (@surendrastudy)!
+# 👋 Hi there, I'm Surendraprasad Yadav 
 
 Welcome to my GitHub profile! I'm a passionate tech enthusiast, a problem-solver, and an avid learner on a journey to create impactful solutions through code. 🚀
 
@@ -18,9 +18,8 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast, a problem-solver
   Projects in web development, real-time applications, or any innovative idea that excites the mind and challenges my skills!
 
 - 📫 **How to Reach Me:**  
-  - [LinkedIn](https://www.linkedin.com/in/surendrayadav)  
-  - [Email](mailto:surendrastudy@example.com)  
-  - [Portfolio](https://surendrayadav.dev)
+  - [LinkedIn](https://www.linkedin.com/in/surendra-yadav-722b85292/)  
+  - [Email](mailto:studymhtcet06@gmail.com)
 
 ---
 
