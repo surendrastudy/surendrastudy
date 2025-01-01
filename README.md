@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast, a problem-solver
 ---
 
 ### 🚀 My Projects:
-- **[EasyStay Room Reservation](https://github.com/surendrastudy/easystay)**  
+- **[ Room Reservation](https://github.com/surendrastudy/Room-Reservation/)**  
   A dynamic and feature-rich room reservation platform with advanced booking, notifications, real-time maps, and bill generation.
 
 - **[Currency converter](https://github.com/surendrastudy/Currency_Converter)**  
