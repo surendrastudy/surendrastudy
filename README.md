@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast, a problem-solver
 - **[EasyStay Room Reservation](https://github.com/surendrastudy/easystay)**  
   A dynamic and feature-rich room reservation platform with advanced booking, notifications, real-time maps, and bill generation.
 
-- **[Connect Live](https://github.com/surendrastudy/connect-live)**  
+- **[Currency converter](https://github.com/surendrastudy/Currency_Converter)**  
   A seamless video conferencing app with real-time communication, screen sharing, and user authentication.
 
 Check out more on my [GitHub Repositories](https://github.com/surendrastudy?tab=repositories).  
